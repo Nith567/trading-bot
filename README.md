@@ -5,7 +5,7 @@
 1. Clone this repository:
 
 ```bash
-git clone <url></url>
+git clone https://github.com/Nith567/trading-bot.git
 ```
 
 2. Provision a [CDP API Key](https://docs.cdp.coinbase.com/developer-platform/docs/cdp-keys).
